@@ -4,3 +4,4 @@ A Project has planned to use WizFi360-EVB-PICO with barcode reader . It used cir
 
 By providing a strong connection service and a new way to develop my application using WIZnet's solution, I had used Ethernet rather than WiFi to work on this application develop.
 
+Added - Chip counter feature
